@@ -33,6 +33,7 @@ Every article should:
 - link naturally to the MOMASONG shop, OEM/ODM, quality, size guide or contact pages;
 - use only product facts and claims supported by the live website or current project data;
 - use 1-3 relevant existing MOMASONG website images when they improve the article, each with descriptive alt text;
+- download displayed images into `assets/YYYYMMDD/` and use relative Markdown paths so they render in GitHub;
 - avoid unrelated stock images and avoid adding images only to fill space;
 - stay a draft until a person reviews facts, target keyword, links and final URL before publishing.
 
@@ -44,3 +45,7 @@ Every article should:
 - Size guide: https://momasong.com/size-guide
 - Blog: https://momasong.com/blog
 - Contact: https://momasong.com/contact
+
+## Image storage
+
+Keep the original website URL in YAML metadata for publishing reference. For the visible images inside the Markdown body, save a verified copy under `seo-articles/assets/YYYYMMDD/` and reference it from a category article as `../assets/YYYYMMDD/filename.webp`. Commit the article and its image files together.

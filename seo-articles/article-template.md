@@ -27,13 +27,13 @@ additional_images:
 
 Opening paragraph.
 
-![Descriptive alt text](https://momasong.com/path-to-existing-image)
+![Descriptive alt text](../assets/YYYYMMDD/featured-image.webp)
 
 ## Main section
 
 Useful, specific copy.
 
-![Optional second image alt text](https://momasong.com/optional-second-image)
+![Optional second image alt text](../assets/YYYYMMDD/optional-second-image.webp)
 
 ## Frequently asked questions
 
