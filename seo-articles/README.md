@@ -30,11 +30,15 @@ Every article should:
 - normally be 700-1,000 words, with no filler added merely to reach a word count;
 - include YAML metadata with title, slug, description, keywords, date, category, canonical URL, image and alt text;
 - use one clear H1, descriptive H2/H3 headings, a short FAQ and a relevant call to action;
+- open with a specific hook or buyer problem, then move quickly to practical takeaways and a clear next step;
+- balance search intent with human appeal: use the primary keyword naturally in the title, introduction, one heading and conclusion, without keyword stuffing;
+- use short paragraphs, concrete examples, benefit-led subheadings and a distinct point of view so the article feels useful rather than generic;
 - link naturally to the MOMASONG shop, OEM/ODM, quality, size guide or contact pages;
 - use only product facts and claims supported by the live website or current project data;
-- use 1-3 relevant existing MOMASONG website images when they improve the article, each with descriptive alt text;
+- use 1-3 relevant existing MOMASONG website images when they improve the article, each with descriptive alt text and placed beside the section it illustrates;
+- match image type to topic: product/gallery images for Product, fabric/testing/factory images for Education, beach or accessory scenes for Lifestyle, and factory/design/team/process images for Stories;
+- avoid repeating near-identical images, unrelated stock photos, decorative images with no editorial purpose, or alt text that merely repeats keywords;
 - download displayed images into `assets/YYYYMMDD/` and use relative Markdown paths so they render in GitHub;
-- avoid unrelated stock images and avoid adding images only to fill space;
 - stay a draft until a person reviews facts, target keyword, links and final URL before publishing.
 
 ## Core internal links
